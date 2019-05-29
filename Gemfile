@@ -65,3 +65,4 @@ group :development, :test do
 end
 
 gem 'jquery-rails'
+gem 'turbolinks', '~> 5.2.0'
